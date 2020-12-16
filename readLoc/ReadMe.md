@@ -5,7 +5,16 @@
 
 ## Description
     
-this project works and its helpful
+This project works and its helpful
+
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contribution](#contribution)
+- [Tests](#test)
+- [Contacts](#username)
 
 ## Installation
 
@@ -13,7 +22,7 @@ normal
 
 ## Usage
 
-you must make this work on terminal
+readme is working
 
 ## License 
 

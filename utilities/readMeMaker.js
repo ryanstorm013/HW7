@@ -8,6 +8,15 @@ function readMeGenerate(answers) {
     
 ${answers.description}
 
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contribution](#contribution)
+- [Tests](#test)
+- [Contacts](#username)
+
 ## Installation
 
 ${answers.installation}
