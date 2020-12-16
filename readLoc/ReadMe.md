@@ -1,37 +1,36 @@
 
-    
-# taco
+# My ReadMe Generator
 
-![badge](https://img.shields.io/badge/license-Unlicense-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
     
-asddfasdfa
+this project works and its helpful
 
 ## Installation
 
-asddfasddfa
+normal
 
 ## Usage
 
-adsfasddfas
+you must make this work on terminal
 
 ## License 
 
-This repository is licensed by Unlicense.
+This repository is licensed by MIT.
 
 ## Contribution
 
 This project was make possible by: 
         
-asdfasdf
+Ryan R
     
 ## Tests
 
 To run this, run the following:
     
 `
-asddfasddfas
+as usual
 `
 
 ## Contact Me
